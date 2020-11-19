@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samhobodytrak/React-Deploy/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/samhobodytrak/React-Deploy/static/js/main.e8c17c7d.chunk.js",
+    "main.js.map": "/samhobodytrak/React-Deploy/static/js/main.e8c17c7d.chunk.js.map",
+    "runtime-main.js": "/samhobodytrak/React-Deploy/static/js/runtime-main.46cd1d0f.js",
+    "runtime-main.js.map": "/samhobodytrak/React-Deploy/static/js/runtime-main.46cd1d0f.js.map",
+    "static/js/2.82f639e7.chunk.js": "/samhobodytrak/React-Deploy/static/js/2.82f639e7.chunk.js",
+    "static/js/2.82f639e7.chunk.js.map": "/samhobodytrak/React-Deploy/static/js/2.82f639e7.chunk.js.map",
+    "static/js/3.9fbaa076.chunk.js": "/samhobodytrak/React-Deploy/static/js/3.9fbaa076.chunk.js",
+    "static/js/3.9fbaa076.chunk.js.map": "/samhobodytrak/React-Deploy/static/js/3.9fbaa076.chunk.js.map",
+    "index.html": "/samhobodytrak/React-Deploy/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/samhobodytrak/React-Deploy/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.82f639e7.chunk.js.LICENSE.txt": "/samhobodytrak/React-Deploy/static/js/2.82f639e7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/samhobodytrak/React-Deploy/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46cd1d0f.js",
+    "static/js/2.82f639e7.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e8c17c7d.chunk.js"
+  ]
+}
